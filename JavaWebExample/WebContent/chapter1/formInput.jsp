@@ -40,9 +40,9 @@
 
 			<tr>
 				<td>兴趣:</td>
-				<td><input type="checkbox" name="music">音乐</input> <input
-					type="checkbox" name="sport">体育</input> <input type="checkbox"
-					name="other">其他</input></td>
+				<td><input type="checkbox" name="music" value="音乐">音乐</input> <input
+					type="checkbox" name="sport" value="体育">体育</input> <input
+					type="checkbox" name="other" value="其他">其他</input></td>
 			</tr>
 
 			<tr>

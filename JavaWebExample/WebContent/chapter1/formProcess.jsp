@@ -3,7 +3,7 @@
 
 <%
     //设置提交表单的中文编码
-    request.setCharacterEncoding("GB2312");
+    request.setCharacterEncoding("utf-8");
     //收集用户提交信息
     String sUserID = request.getParameter("userID");
     String sPassword = request.getParameter("password");
