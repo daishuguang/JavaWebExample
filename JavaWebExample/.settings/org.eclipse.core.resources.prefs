@@ -1,2 +1,3 @@
 eclipse.preferences.version=1
-encoding//WebContent/HelloUser.jsp=UTF-8
+encoding//WebContent/chapter1/HelloUser.jsp=UTF-8
+encoding//WebContent/chapter1/formProcess.jsp=UTF-8
